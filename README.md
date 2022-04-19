@@ -1,8 +1,8 @@
 # youtube
 
-Youtube UI Dsign Task
+Youtube clone homescreen UI with #flutter
 
-## Getting Started
+## Development setup
 
 This project is a starting point for a Flutter application.
 
